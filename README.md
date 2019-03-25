@@ -1,6 +1,6 @@
 # Code Exercise
 
-Assigment #1 for MM.
+Assessment #1 for MM.
 
 ## Getting Started
 
