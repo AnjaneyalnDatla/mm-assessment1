@@ -7,7 +7,7 @@ Assessment #1 for MM.
 Download the code using git
 
 ```
-git clone https://github.com/AnjaneyalnDatla/mm-assessment2.git
+git clone https://github.com/AnjaneyalnDatla/mm-assessment1.git
 ```
 
 ### Prerequisites
